@@ -1,4 +1,4 @@
-# quantum-chess
+# quantum-chess [work in progress]
 
 ![](https://github.com/SunilBoopalan/quantum-chess/blob/main/Media/Poster.png)
 
