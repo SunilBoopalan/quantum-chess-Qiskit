@@ -1,6 +1,6 @@
 # quantum-chess
 
-![](https://github.com/SEDSCelestiaBPGC/quantum-chess/blob/master/Media/Poster.jpeg)
+![](https://github.com/SunilBoopalan/quantum-chess/blob/master/Media/Poster.jpeg)
 
 Hi! Welcome to the Quantum Chess repo.
 
