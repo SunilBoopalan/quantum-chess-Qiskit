@@ -2,7 +2,7 @@
 
 ![](https://github.com/SunilBoopalan/quantum-chess/blob/main/Media/Poster.png)
 
-Hi! Welcome to the Quantum Chess repo.
+Hi! Welcome to the Quantum Chess repo. Done by Sunil Boopalan from SRMIST.
 
 Chess is a much loved, classic game, but what happens when we give it a quantum twist? Quantum chess works on the same rules as classical chess, but each piece has quantum abilities too- you can put a piece in a superposition, or even entangle two pieces. Our version is built using Qiskit, and is a great way to demonstrate and understand quantum properties. The game needs a good understanding of how various probabilities interact, to be able to comprehend how the state collapses upon observation, which happens when the piece is either capturing or being captured, and decides the position of a piece in superposition. These probabilities are decided by the quantum state of the piece, and thus adds an element of chance to this game of strategy.
 
